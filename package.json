@@ -4,7 +4,9 @@
   "description": "",
   "devDependencies": {
     "gulp": "^3.6.2",
+    "gulp-coffee": "^1.4.3",
     "gulp-connect": "^2.0.5",
-    "gulp-less": "^1.2.3"
+    "gulp-less": "^1.2.3",
+    "gulp-watch": "^0.6.5"
   }
 }
